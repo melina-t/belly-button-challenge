@@ -39,7 +39,7 @@ Complete the following steps:
 
 ![image](https://github.com/melina-t/belly-button-challenge/assets/132321994/04f9d0cc-296d-4635-9f57-e43aca2f17ea)
 
-> [!HINT]
+> [!Note]
 > - Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
 > - Refer to the[ Plotly.js documentation](https://plotly.com/javascript/) when building the plots.
 
